@@ -1,8 +1,8 @@
 {
-  "name": "Angga_dwi_resky_maulana",
+  "name": "angga-dwi-resky-maulana",
   "private": true,
   "version": "0.0.0",
-  "author": "Angga",
+  "author": "angga",
   "description": "Deskripsi singkat tentang proyek ini",
   "type": "module",
   "scripts": {
