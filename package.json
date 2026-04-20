@@ -1,7 +1,9 @@
 {
-  "name": "my_web_liam",
+  "name": "Angga_dwi_resky_maulana",
   "private": true,
   "version": "0.0.0",
+  "author": "Nama Kamu",
+  "description": "Deskripsi singkat tentang proyek ini",
   "type": "module",
   "scripts": {
     "dev": "vite",
